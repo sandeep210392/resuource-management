@@ -1,0 +1,11 @@
+.add-resource-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  background-size: cover;
+}

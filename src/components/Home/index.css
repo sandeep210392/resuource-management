@@ -1,0 +1,14 @@
+.resource-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.tabs-card {
+  background-size: cover;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

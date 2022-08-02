@@ -1,0 +1,74 @@
+.header {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 92.97%;
+
+  background: #ffffff;
+  width: 100vw;
+  height: 72px;
+  background-size: cover;
+}
+
+.logo-img {
+  display: flex;
+  align-self: flex-start;
+
+  position: absolute;
+  left: 3.33%;
+  right: 90.97%;
+  top: 1.56%;
+  bottom: 94.53%;
+
+  height: 40px;
+  width: 82px;
+  left: 48px;
+  top: 16px;
+  border-radius: 0px;
+}
+
+.addbtn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 20px;
+  gap: 8px;
+
+  position: absolute;
+  left: 86.88%;
+  right: 6.67%;
+  top: 1.37%;
+  bottom: 94.73%;
+
+  /* Main / Blue - Default */
+
+  background: #0b69ff;
+  border-radius: 4px;
+
+  height: 40px;
+  width: 93px;
+  left: 1251px;
+  top: 14px;
+  border-radius: 4px;
+  padding: 8px, 20px, 8px, 20px;
+}
+
+.person-img {
+  display: flex;
+  align-self: flex-end;
+
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  right: 0px;
+  top: 16px;
+
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+
+  height: 40px;
+  width: 40px;
+  left: 1400px;
+  top: 16px;
+  border-radius: 0px;
+}
